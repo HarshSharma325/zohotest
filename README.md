@@ -4,9 +4,9 @@ A contact manager form using HTML, PHP, Bootstrap and MySQL. This form allows us
 
 Some of the features are:
 ========================
-*It's a secured app as the password is hashed and stored in the database.
-*Easy to use.
-*Uses secret key for more enhanced security.
+*It's a secured app as the password is hashed and stored in the database.<br />
+*Easy to use.<br />
+*Uses secret key for more enhanced security.<br />
 
 
 INSTRUCTIONS
