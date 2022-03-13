@@ -9,5 +9,11 @@ Some of the features are:
 
 INSTRUCTIONS
 ============
-Download the folder named "zoho" from the repository
+1. Download and install xampp and visual studio code
+2. Clone the repository and then copy the folder named "zoho" to C:\xampp\htdocs
+3. Open xampp and start Apache and MySql server
+4. Go to http://localhost/phpmyadmin/ and create two databases with the name "contacts" and "users" seperately
+5. Go to import and import the two databases from the cloned repository named "contacts.sql" and "users.sql" to get the structure of the database
+6. Open http://localhost/zoho/login.php to access the application.
+
 
